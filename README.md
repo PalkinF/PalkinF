@@ -1,11 +1,17 @@
-<h3 align="center">Hello, my name is Fedor, I like programming, 3D modeling and 3D printing.</h3>
+## Hi!
+My name is Fedor, I like programming, 3D modeling and 3D printing.
 
-<h3 align="center">Skills</h3>
 
-<h4 align="center">Languages:
-<h4 align="center">Python - Ok</h4>
- <h4 align="center">C++ - Jast a bit</h4>
-<br>
+
+### My skills in languages
++ Playing instruments
+   + Python - Ok
+   + C++ - Jast a bit
+
+
+
+
+
 <h3 align="center">Me in CodeWars</h3>
 <p align="center">
   <a href="https://www.codewars.com/users/Palkin_Fedor" target="_blank">
