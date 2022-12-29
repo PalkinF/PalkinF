@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3 align="center">Hello, my name is Fedor, I like programming.</h3>
 
-<!--
-**PalkinF/PalkinF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Skills</h3>
 
-Here are some ideas to get you started:
+<h4 align="center">Languages:
+<h4 align="center">Python - Ok</h4>
+ <h4 align="center">C++ - Jast a bit</h4>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Me in CodeWars</h3>
+<p align="center">
+  <a href="https://www.codewars.com/users/Palkin_Fedor" target="_blank">
+  <img src="https://www.codewars.com/users/Palkin_Fedor/badges/large">
+</p>
+<br>
